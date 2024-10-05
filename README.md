@@ -1,4 +1,4 @@
-[![MasterHead](https://c4.wallpaperflare.com/wallpaper/531/1009/117/programming-hello-world-quote-gray-gradient-hd-wallpaper-preview.jpg)
+[![MasterHead](https://c4.wallpaperflare.com/wallpaper/186/119/589/8-bit-hello-world-minimalism-wallpaper-preview.jpg)
 <h1 align="center">Hi 👋, I'm Burakhan</h1>
 <h3 align="center">A student at Yıldız Technical University Computer Engineering.</h3>
 
