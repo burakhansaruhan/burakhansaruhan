@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Burakhan</h1>
 <h3 align="center">A student at Yıldız Technical University Computer Engineering.</h3>
 
-- 🔭 I’m currently working on **C**
+- 🔭 I’m currently working on **SOFTWARE DEVELOPMENT**
 
 - 💬 Ask me about **C**
 
