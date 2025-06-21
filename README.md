@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Software Development**
 
-- 💬 Ask me about **C**
+- 💬 Ask me about **C, Python**
 
 - 📫 How to reach me **burakhansaruhan271@gmail.com**
 
